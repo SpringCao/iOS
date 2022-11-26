@@ -17,6 +17,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"HelloWorld!!!");
+    NSLog(@"the second commit");
+    NSLog(@"the third commit");
+    NSLog(@"the forth commit");
 }
 
 
